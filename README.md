@@ -52,7 +52,6 @@ docker compose version
 ```
 
 ![IMG1](IMG1.png)
-_Descripción: Captura de la terminal mostrando las versiones instaladas de Docker Engine y Docker Compose, confirmando que cumplen con los requisitos mínimos (20.10+ y 2.0+ respectivamente)._
 
 ---
 
@@ -73,11 +72,11 @@ PGADMIN_DEFAULT_PASSWORD=admin_pass
 ```
 
 ![IMG2](IMG2.png)
-_Descripción: Captura del archivo `.env` abierto en un editor de texto o visualizado en la terminal con `cat .env`, mostrando todas las variables de entorno definidas para el proyecto._
+_Descripción: Captura del archivo `.env` abierto en un editor de texto o visualizado en la terminal con `cat .env`, mostrando todas las variables de entorno definidas para el proyecto._                                                                                                   
 
 ---
 
-## Instrucciones de Uso
+## Instrucciones de Uso                                                         
 
 ### 1. Construir y levantar el stack
 
